@@ -22,5 +22,5 @@ To run this project locally, ensure you have Python installed.
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/RahaibAnas/Superstore-Sales-analysis
    cd superstore-analysis
